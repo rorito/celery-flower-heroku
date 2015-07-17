@@ -1,2 +1,2 @@
--e git://github.com/rorito/flower.git@5f0f982088a34e1593f78386c3e7784b459a96d5#egg=flower
+-e git://github.com/rorito/flower.git@d0177817af94c3b4acdf11cd7faecc99c9f27dba#egg=flower
 redis
